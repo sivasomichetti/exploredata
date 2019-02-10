@@ -1,3 +1,6 @@
+-- This sql file is created for doing a Stock Market Analysis to generate the signal with the help of moving averages. 
+-- Stocks considered for this Analysis are Eicher Motors, Hero Motocorp, Bajaj Auto, TVS Motors, Infosys and TCS
+
 -- Create a new Schema named 'Assignment'
 CREATE SCHEMA `Assignment` ;
 
